@@ -12,8 +12,8 @@ Example:
 ```html
 <div class="flickr-gallery" data-topic="cats"></div>
 ```
-Some optional attributes:
-- **id**: by default the widget set an id to the widget container to persist removed images from the widget, but it depends on the order of the elements in the html page. If you want you can specify an id to your widget container and always persists deleted images from your visitors, wherever you put your widget after a template change for example.
+Optional attributes:
+- **id**: by default the script set an id to the widget container to persist removed images from the widget, but it depends on the order of the elements in the html page. If you want you can specify an id to your widget container and always persists deleted images from your visitors, wherever you put your widget after a template change for example.
 - **data-nbr-images**: you can use this attribute to speciffy the number of images that should be loaded.
 
 Complete example:

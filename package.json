@@ -1,0 +1,23 @@
+{
+  "name": "strossle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flickr-gallery.js",
+  "scripts": {
+    "dev": "http-server ./ -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecarvalho/widget-tech-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecarvalho/widget-tech-test/issues"
+  },
+  "homepage": "https://github.com/ecarvalho/widget-tech-test#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

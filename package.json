@@ -1,5 +1,5 @@
 {
-  "name": "strossle-test",
+  "name": "flicker-widget",
   "version": "1.0.0",
   "description": "",
   "main": "flickr-gallery.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ecarvalho/widget-tech-test.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Edson Carvalho",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ecarvalho/widget-tech-test/issues"

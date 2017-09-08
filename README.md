@@ -21,7 +21,7 @@ Complete example:
 <div id="cats-gallery" class="flickr-gallery" data-topic="cats" data-nbr-images="4"></div>
 ```
 
-## How to test locally
+## How to run it locally
 
 ### Requirements
 `node` and `npm`
